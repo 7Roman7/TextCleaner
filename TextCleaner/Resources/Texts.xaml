@@ -1,0 +1,39 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib"
+                    xmlns:s="clr-namespace:System;assembly=System">
+
+    <v:String x:Key="AppName">Text Cleaner</v:String>
+    
+    <!--Menu-->
+    <v:String x:Key="Info">Info</v:String>
+
+    <!--About-->
+    <v:String x:Key="AboutApp">About App</v:String>
+    <v:String x:Key="Author">Author:</v:String>
+    <v:String x:Key="Feedback">Feedback:</v:String>
+    <v:String x:Key="Version">Version:</v:String>
+    <v:String x:Key="Thanks">Thanks</v:String>
+    <v:String x:Key="Thanks1">icons8 for cool icons</v:String>
+    <v:String x:Key="Thanks1Link">https://icons8.com/</v:String>
+    <s:Uri x:Key="Thanks1Uri">https://icons8.com/</s:Uri>
+
+    <v:String x:Key="Thanks2">Thomas Levesque for NHotkey</v:String>
+    <v:String x:Key="Thanks2Link">https://github.com/thomaslevesque/NHotkey</v:String>
+    <s:Uri x:Key="Thanks2Uri">https://github.com/thomaslevesque/NHotkey</s:Uri>
+    
+
+    <!--Common-->
+    <v:String x:Key="OK">OK</v:String>
+    <v:String x:Key="Cancel">Cancel</v:String>
+    <v:String x:Key="Yes">Yes</v:String>
+    <v:String x:Key="No">No</v:String>
+    <v:String x:Key="Exit">Exit</v:String>
+    <v:String x:Key="Close">Close</v:String>
+    <v:String x:Key="Minimize">Minimize</v:String>
+    <v:String x:Key="Maximize">Maximize</v:String>
+    <v:String x:Key="Restore">Restore</v:String>
+    <v:String x:Key="Move">Move</v:String>
+    <v:String x:Key="Edit">Edit</v:String>
+
+</ResourceDictionary>
